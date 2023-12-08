@@ -1,5 +1,7 @@
 const { app, BrowserWindow } = require('electron')
 const path = require('node:path')
+import Pokedex from 'pokedex-promise-v2';
+const P = new Pokedex();
 
 const createWindow = () => {
     const win = new BrowserWindow({
