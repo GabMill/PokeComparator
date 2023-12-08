@@ -1,0 +1,8 @@
+{
+  "name": "pokecomparator",
+  "version": "1.0.0",
+  "description": "Pokemon Comparison Tool",
+  "main": "main.js",
+  "author": "Gabriel Miller",
+  "license": "ISC"
+}
