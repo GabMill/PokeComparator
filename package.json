@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Pokemon Comparison Tool",
   "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
   "author": "Gabriel Miller",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
 }
